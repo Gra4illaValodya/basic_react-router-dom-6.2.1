@@ -1,0 +1,1 @@
+MPA and SPA template using "react-router-dom": "^6.2.1"
